@@ -6,7 +6,7 @@ This project aims to analyze and predict life expectancy based on various factor
 
 I used publicly available data from the World Health Organization (WHO) and other sources to develop our predictive models. The data includes information on life expectancy, health indicators, socio-economic factors, and environmental factors for different countries and regions.
 
-** Dataset Description **
+**Dataset Description**
 
 
 Country                         
