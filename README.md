@@ -36,7 +36,7 @@ Schooling                           :   This feature is about if the said person
 **Methods**
 
 I applied various data preprocessing techniques, feature engineering methods, and model selection strategies to develop our predictive models. I used Random Forest Regressor , Decision tree Regressor , XGB boost regressor , Gradient Boost regressor among which random forest regressor performed well .
-I evaluate the performance of our models using R-square  technique ( Independent variable explains the variance of dependent feature)  and measure their accuracy using RMSE metric.
+I evaluate the performance of our models using R-square metric ( Independent variable explains the variance of dependent feature)  and measure their accuracy using RMSE metric.
 
 **Results**
 
