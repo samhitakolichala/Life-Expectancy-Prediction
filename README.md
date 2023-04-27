@@ -6,37 +6,42 @@ This project aims to analyze and predict life expectancy based on various factor
 
 I used publicly available data from the World Health Organization (WHO) and other sources to develop our predictive models. The data includes information on life expectancy, health indicators, socio-economic factors, and environmental factors for different countries and regions.
 
-**Dataset Description**
-
-
-Country                         
-Continent                        
-Year                               
-Status                            
-Life_expectancy                    
-Adult_Mortality                  :  This is inversely correlated with life expectancy , if Adult mortality is more then life expectancy is low.
-infant_deaths                      :
-Alcohol                            : It is negatively correlated with life expectancy
-percentage_expenditure             
-Hepatitis_B                        :   It is negatively corelated with life expectancy              
-Measles                            :   It is negatively correlated with life expectancy
-BMI                                
-under_five_deaths                  :   It has negative correlation with life expectancy
-Polio                              :   It has negative correlation with life expectancy.
-Total_expenditure                  
-Diphtheria                          :  Life threatening disease which has less life expectancy.
-HIV/AIDS                            :  Patient with HIV may have have less life expectancy.
-GDP                                
-Population                         
-thinness  1-19 years                : 'Underweight' patient  has less life expectancy.
-thinness 5-9 years                  :  'Underweight' patient has less life expectancy. 
-Income_composition_of_resources     : More the willingness of the expenditure for the disease may acquire quality treatment .
-Schooling                           :   This feature is about if the said person is educated then he/she would know how dreadful. 
 
 **Methods**
 
 I applied various data preprocessing techniques, feature engineering methods, and model selection strategies to develop our predictive models. I used Random Forest Regressor , Decision tree Regressor , XGB boost regressor , Gradient Boost regressor among which random forest regressor performed well .
 I evaluate the performance of our models using R-square metric ( Independent variable explains the variance of dependent feature)  and measure their accuracy using RMSE metric.
+
+**Insights Gained**
+
+
+1. **Country** Life expectancy can vary greatly between countries due to factors such as healthcare access and quality, lifestyle habits, and socioeconomic conditions.
+
+2. **Adult mortality**: High rates of adult mortality can have a significant impact on life expectancy, and identifying the causes and prevalence of adult mortality can help improve healthcare and public health interventions.
+
+3. **Infant deaths**: Infant mortality is a key indicator of the overall health and well-being of a population, and studying trends and patterns in infant mortality can help identify areas for targeted interventions and improvements in healthcare.
+
+4. **Alcoholism**: Alcoholism can have a negative impact on health and can lead to premature death, and understanding its prevalence and impact on life expectancy can inform public health interventions and policies.
+
+5. **Percentage expenditure**: Percentage expenditure on healthcare can impact life expectancy by affecting access to and quality of healthcare services, and studying healthcare expenditure patterns can help identify areas for improvement in healthcare systems.
+
+6.**Hepatitis B**: Hepatitis B is a viral infection that can impact liver health and can be transmitted through blood and bodily fluids, and understanding its prevalence and impact on health can inform public health interventions.
+
+7. **Measles**: Measles is a highly contagious viral disease that can be prevented through vaccination, and understanding the prevalence of measles and the impact of vaccination on life expectancy can help inform healthcare policies and interventions.
+
+8. **BMI**: High BMI can be a risk factor for a variety of health conditions that can impact life expectancy, including heart disease and diabetes.
+
+9. **Under five deaths**: Deaths in children under the age of five can have a significant impact on life expectancy, and understanding the causes and prevalence of under five deaths can help identify areas for targeted interventions and improvements in healthcare.
+
+10. **Polio**: Polio is a viral infection that can cause paralysis and can be prevented through vaccination, the impact of vaccination on life expectancy can inform healthcare policies and interventions.
+
+11. **HIV/AIDS**: HIV/AIDS is a viral infection that can lead to the impact of treatment on life expectancy can inform healthcare policies and interventions.
+
+12. **Thinness 1-19 years**: Thinness in children and adolescents can be a sign of malnutrition and can lead to a variety of health problems, and understanding its prevalence and impact on health can help inform public health interventions.
+
+13. **Income resources**: Income and resources can impact access to healthcare, education, and other resources that can influence life expectancy, and understanding their impact on health can help identify areas for targeted interventions.
+
+14. **Schooling**: Education can impact health outcomes by influencing knowledge and behaviors related to health, and understanding its impact on health can help identify areas for targeted interventions and improvements in healthcare.
 
 **Results**
 
