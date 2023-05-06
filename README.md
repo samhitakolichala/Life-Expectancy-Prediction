@@ -9,8 +9,7 @@ I used publicly available data from the World Health Organization (WHO) and othe
 
 **Methods**
 
-I applied various data preprocessing techniques, feature engineering methods, and model selection strategies to develop our predictive models. I used Random Forest Regressor , Decision tree Regressor , XGB boost regressor , Gradient Boost regressor among which random forest regressor performed well .
-I evaluate the performance of our models using R-square metric ( Independent variable explains the variance of dependent feature)  and measure their accuracy using RMSE metric.
+I applied Standard Scaling to transform the features , Imputed missing values using 'mean' because 'skewness' was less than 'one' , Splitted the data into 80 to 20 ratio for training and test set . Used  Random Forest Regressor , Decision tree Regressor , XGB boost regressor , Gradient Boost regressor models to develop predictive models. Among all the models  random forest regressor performed well . Used  R-square metric ( Independent variable explains the variance of dependent feature)  and measure their accuracy using RMSE metric.
 
 **Insights Gained**
 
@@ -59,9 +58,6 @@ Numpy
 Scikit-learn
 Matplotlib
 Seaborn
-Usage
-To run the project, clone the repository and install the required dependencies. Then run the life_expectancy.ipynb Jupyter Notebook to reproduce the analysis and results. The notebook includes detailed explanations and code for each step of the analysis.
-
 
 **A quick glance**
 
