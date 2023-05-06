@@ -61,10 +61,18 @@ Seaborn
 
 **A quick glance**
 
-<img width="375" alt="image" src="https://user-images.githubusercontent.com/119112861/234934594-61883a3f-dc2a-42c9-8840-5a3e52107152.png">
+# XGB boost regressor
 
+<img width="389" alt="image" src="https://user-images.githubusercontent.com/119112861/236635891-f6df2852-94ae-44f4-a792-89defeb27b15.png">
 
-<img width="366" alt="image" src="https://user-images.githubusercontent.com/119112861/234934703-d9fd94ab-8a9b-4e65-8020-6e5337c5a315.png">
+<img width="390" alt="image" src="https://user-images.githubusercontent.com/119112861/236635907-d207ad86-e859-4b75-a691-d88870d02453.png">
+
+## Gradient boost regressor
+
+<img width="429" alt="image" src="https://user-images.githubusercontent.com/119112861/236635867-f0f31236-cc0f-455b-a6ea-d37bb2e263f8.png">
+
+<img width="386" alt="image" src="https://user-images.githubusercontent.com/119112861/236635875-27c0d659-8680-44e6-92c2-59a137b13862.png">
+
 
 <img width="698" alt="image" src="https://user-images.githubusercontent.com/119112861/236600675-494c5df6-d78f-4630-b44d-889f1f89b97f.png">
 
