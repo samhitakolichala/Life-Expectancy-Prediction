@@ -68,7 +68,7 @@ Seaborn
 
 <img width="698" alt="image" src="https://user-images.githubusercontent.com/119112861/236600675-494c5df6-d78f-4630-b44d-889f1f89b97f.png">
 
-<img width="676" alt="image" src="https://user-images.githubusercontent.com/119112861/236600552-fe00e8a6-a4c9-43c3-a70e-d850136e48be.png">
+<img width="461" alt="image" src="https://user-images.githubusercontent.com/119112861/236635725-beb49006-4050-4fd7-a4c5-469019cb850b.png">
 
 **Credits**
 This project was created by Samhita Kolichala  as part of project at Bombay Stock Exchange . I thank Indrani Sen Mam for her guidance and support.
