@@ -66,8 +66,7 @@ Seaborn
 
 <img width="366" alt="image" src="https://user-images.githubusercontent.com/119112861/234934703-d9fd94ab-8a9b-4e65-8020-6e5337c5a315.png">
 
-
-<img width="475" alt="image" src="https://user-images.githubusercontent.com/119112861/234934806-542e4f7d-82cc-488e-90c4-76c400db8c6b.png">
+<img width="698" alt="image" src="https://user-images.githubusercontent.com/119112861/236600675-494c5df6-d78f-4630-b44d-889f1f89b97f.png">
 
 <img width="676" alt="image" src="https://user-images.githubusercontent.com/119112861/236600552-fe00e8a6-a4c9-43c3-a70e-d850136e48be.png">
 
