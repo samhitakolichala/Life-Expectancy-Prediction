@@ -61,6 +61,10 @@ Seaborn
 
 **A quick glance**
 
+
+<img width="670" alt="image" src="https://user-images.githubusercontent.com/119112861/236995839-c6b6f107-b7a9-46f1-9872-d9399931d149.png">
+
+
 # XGB boost regressor
 
 <img width="389" alt="image" src="https://user-images.githubusercontent.com/119112861/236635891-f6df2852-94ae-44f4-a792-89defeb27b15.png">
